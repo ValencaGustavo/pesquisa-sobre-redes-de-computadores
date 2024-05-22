@@ -7,7 +7,7 @@ São múltiplas conexões de sistemas computacionais a fim de promover o trafego
 Como funcionam?
 
 Funcionam a partir de nós e links. Os nós são responsáveis pela execução de tarefas específicas, como armazenamento de dados, execução de aplicativos e processamento.
-  Os links são conexões físicas ou lógicas entre os nós de uma rede. Por meio dele que ocorre troca de informações e conexões entre nós para gerar a infraestrutura de comunição de rede. Os links funcionam em redes físicas com o uso de cabos de internet fibra óptica ou sem pelo WIFI que utiliza ondas de rádio para a transmissão de dados. Para a transmissão de informações e dados é adotado vários protocolos de redes que são: HTTP, HTTPS, TCP/IP, FTP, DNS entre outros.
+  Os links são conexões físicas ou lógicas entre os nós de uma rede. Por meio dele que ocorre troca de informações e conexões entre nós para gerar a infraestrutura de comunicação de rede. Os links funcionam em redes físicas com o uso de cabos de internet fibra óptica ou sem pelo WIFI que utiliza ondas de rádio para a transmissão de dados. Para a transmissão de informações e dados é adotado vários protocolos de redes que são: HTTP, HTTPS, TCP/IP, FTP, DNS entre outros.
 
 BIBLIOGRAFIA:
 
