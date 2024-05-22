@@ -1,0 +1,17 @@
+REDES DE COMPUTADORES:
+
+O  que é?
+
+São múltiplas conexões de sistemas computacionais a fim de promover o trafego de dados, videos e fotos, possibilitando que você converse e envie arquivos para qualquer pessoa que esteja ligada a um computador sem limitações de distância
+
+Como funcionam?
+
+Funcionam a partir de nós e links. Os nós são responsáveis pela execução de tarefas específicas, como armazenamento de dados, execução de aplicativos e processamento.
+  Os links são conexões físicas ou lógicas entre os nós de uma rede. Por meio dele que ocorre troca de informações e conexões entre nós para gerar a infraestrutura de comunição de rede. Os links funcionam em redes físicas com o uso de cabos de internet fibra óptica ou sem pelo WIFI que utiliza ondas de rádio para a transmissão de dados. Para a transmissão de informações e dados é adotado vários protocolos de redes que são: HTTP, HTTPS, TCP/IP, FTP, DNS entre outros.
+
+BIBLIOGRAFIA:
+
+https://www.alura.com.br/artigos/rede-de-computadores	
+https://www.controle.net/faq/rede-de-computadores
+https://voitto.com.br/blog/artigo/redes-de-computadores
+
